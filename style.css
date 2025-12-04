@@ -91,6 +91,7 @@ header {
     background-color: #5937E0;
     border-radius: 40px;
     position: relative;
+    overflow: hidden;
 }
 
 .hero-text {
@@ -566,6 +567,7 @@ header {
     justify-content: center;
     flex-direction: column;
     gap: 16px;
+    background-color: #FAFAFA !important;
 }
 
 .car-detal__detal {
@@ -576,6 +578,8 @@ header {
     flex-direction: column;
     padding: 24px;
     gap: 20px;
+    background: #FAFAFA;
+
 }
 
 .detal-card__info {
