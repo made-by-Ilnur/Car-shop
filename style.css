@@ -1359,6 +1359,10 @@ header {
         padding-left: 20px;
     }
 
+    .detal-card__info {
+        padding: 10px;
+    }
+
     .end p {
         text-align: center;
     }
